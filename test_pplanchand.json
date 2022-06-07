@@ -1,0 +1,32 @@
+{
+"Report_Entry": [
+{
+   "Désignation_de_l_emploi": "Assistante Ressources Humaines",
+   "Compte_verrouille__desactive_ou_expire": "0",
+   "ID_Type_de_salarie": "CDI",
+   "Manager": "LAETITIA MANCINI",
+   "Prenom": "PAULINE",
+   "Email_professionnel": "pplanchand@groupebarriere.com",
+   "Pays_salarie": "FRANCE",
+   "GLB_SFCMC": "GLB",
+   "ID_Etablissement": "CASINO_CASSIS",
+   "Date_de_debut_du_contrat": "2021-07-22",
+   "CF_ID_Type_de_contrat": "TC_CDI",
+   "ID__Unité_Legale": "EF",
+   "Matricule_du_salarie": "0420001066",
+   "Code_du_poste": "P-0420001066",
+   "CF-RH_Nom_centre_de_coût": "RH00 Ressources Humaines",
+   "Type_de_Licence_google": "Business",
+   "Nom": "PLANCHAND",
+   "ID_Centre_de_cout": "EF_RH00",
+   "ID_Organisation_Hierarchique": "SUPORG_CASSIS_POLE_RH",
+   "Matricule_du_manager": "0420000535",
+   "ID_Profil_d_emploi": "ASSISTANT_RH",
+   "Nom_d_utilisateur": "pplanchand@groupebarriere.com",
+   "location": "CASSIS CASINO SITE",
+   "Statut_du_contrat": "Open",
+   "Genre": "Femme",
+   "Date_d_anciennete_groupe": "2019-07-22",
+   "Type_d_horaire": "Temps partiel"
+}]
+}
