@@ -1,0 +1,30 @@
+{
+"Report_Entry": [
+{
+   "Désignation_de_l_emploi": "COMMIS DE SALLE",
+   "ID_Type_de_salarie": "Seasonal",
+   "Date_de_fin_du_contrat": "2022-07-31",
+   "Manager": "DENIS MINSIER",
+   "Prenom": "HELENA",
+   "Pays_salarie": "FRANCE",
+   "GLB_SFCMC": "GLB",
+   "ID_Etablissement": "HOTEL_ROYAL_LA_BAULE",
+   "Date_de_debut_du_contrat": "2022-06-06",
+   "CF_ID_Type_de_contrat": "TC_CDD_Saisonnier",
+   "ID__Unité_Legale": "BD",
+   "Matricule_du_salarie": "0600006450",
+   "Code_du_poste": "88BCASAJA06062022",
+   "CF-RH_Nom_centre_de_coût": "RS00 Restauration",
+   "Type_de_Licence_google": "Basic Deskless",
+   "Nom": "SAJA",
+   "ID_Centre_de_cout": "BCA_RS00",
+   "ID_Organisation_Hierarchique": "SUPORG_LABAULE_ROYAL_DIVISION_SERVICE_SALLE",
+   "Matricule_du_manager": "0600005076",
+   "ID_Profil_d_emploi": "COMMIS_DE_SALLE",
+   "location": "LA BAULE HOTEL ROYAL SITE",
+   "Statut_du_contrat": "Open",
+   "Genre": "Femme",
+   "Date_d_anciennete_groupe": "2022-06-06",
+   "Type_d_horaire": "Temps plein"
+}]
+}
